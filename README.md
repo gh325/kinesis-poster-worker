@@ -14,6 +14,9 @@ _Worker_ is a thread-per-shard client that:
 
 Multiple Poster or Worker clients can be run simultaneously to generate 
 multi-threaded load on a Kinesis stream. 
+
+TODO: change the code to make it real time run in a loop and as a daemon and addd checktracking for the runtime.
+
 * * *
 Getting Started
 ---------------
